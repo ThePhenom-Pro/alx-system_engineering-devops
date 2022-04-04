@@ -1,0 +1,1 @@
+This folder contains the projects for the shell re-directions
